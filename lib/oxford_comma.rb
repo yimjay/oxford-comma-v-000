@@ -10,4 +10,4 @@ def oxford_comma(array)
   end
 end
 
-oxford_comma(["matty is a big butt", "ji soo is a medium butt", "gretchen is a massive butt"])
+puts oxford_comma(["matty is a big butt", "ji soo is a medium butt", "gretchen is a massive butt"])
