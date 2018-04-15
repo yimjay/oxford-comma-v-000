@@ -9,3 +9,5 @@ def oxford_comma(array)
     new_string << ", and #{last_word}"
   end
 end
+
+oxford_comma(["matty is a big butt", "ji soo is a medium butt", "gretchen is a massive butt"])
